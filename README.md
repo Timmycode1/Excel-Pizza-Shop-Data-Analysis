@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project focuses on analyzing sales data from a pizza shop to gain insights into various aspects of its operations. By examining key performance indicators (KPIs), trends, and patterns in the data, we aim to provide valuable insights that can inform decision-making and optimization strategies for the business.
+![Pizza Sales Dashboard Image](https://github.com/Timmycode1/Excel-Pizza-Shop-Data-Analysis/blob/main/final%20Dashboard1.png)
 
 ## Data Source
 
@@ -122,3 +123,8 @@ Based on the analysis of the pizza sales data, the following recommendations are
    - Gather feedback from customers to identify areas for improvement and address any concerns or issues promptly. Use customer feedback to continuously refine and enhance the overall dining experience.
 
 These recommendations aim to optimize operations, attract more customers, and improve overall business performance for the pizza shop.
+
+## Dashboard
+Explore our dynamic Pizza sales analysis dashboard:
+- 
+
