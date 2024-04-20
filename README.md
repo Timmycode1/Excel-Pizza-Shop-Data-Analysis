@@ -125,6 +125,6 @@ Based on the analysis of the pizza sales data, the following recommendations are
 These recommendations aim to optimize operations, attract more customers, and improve overall business performance for the pizza shop.
 
 ## Dashboard
-Explore our dynamic Pizza sales analysis dashboard:
-- 
+ Explore our dynamic Pizza sales analysis dashboard:
+- [Full Project](https://github.com/Timmycode1/Excel-Pizza-Shop-Data-Analysis/blob/main/Pizza%20Sales%20Project.xlsx)
 
